@@ -1,0 +1,14 @@
+.orderPage {
+  display: flex;
+  justify-content: space-between;
+}
+
+.orderPage__left {
+  width: 70%;
+}
+
+.orderPage__right {
+  width: 27%;
+  font-size: 18px;
+  font-weight: bold;
+}
